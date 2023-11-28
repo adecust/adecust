@@ -6,7 +6,7 @@ I took my first steps into the programming world with the fundamental web techno
 
 Currently, I am studying at Harran University, pursuing a degree in computer engineering. Throughout my university education, my interest in programming has deepened, and I have particularly focused on the Kotlin language. Kotlin has captivated me with its flexibility and broad range of applications. Understanding object-oriented programming and developing applications using Kotlin's powerful libraries excites me.
 
-Skills: Java / C / C++/ HTML / CSS / Kotlin
+Skills: Java / C / C++/ Kotlin
 
 - 🔭 I’m currently working on this page. 
 
