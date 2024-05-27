@@ -1,6 +1,6 @@
 ### Hi there 👋, Hi I'm Arda
 #### Who am ı
-Hello, I am Ahmet Arda İzci. I am a second-year student at Harran University, with a keen interest in Java /Kotlin. My passion for the internet world has led me towards becoming a software developer, and I am writing this text to introduce myself.
+Hello, I am Ahmet Arda İzci. I am a third-year student at Harran University, with a keen interest in Java /Kotlin. My passion for the internet world has led me towards becoming a software developer, and I am writing this text to introduce myself.
 
 I took my first steps into the programming world with the fundamental web technologies of CSS(Tailwind) and HTML. While learning these languages, I discovered how to shape the appearance and structure of websites. Later on, I delved into C++ and C languages to create more complex programs and algorithms. These experiences allowed me to explore the power and limitless potential of software.
 
